@@ -5,4 +5,4 @@ It is My First UAC Disabler on C++ Programming... Enjoy to use this!!!
 
 ## Donation
 
-[SubscribeStar](https://www.subscribestar.com/riritofrancois)
+[Patreon](https://patreon.com/riritoninigaya)
